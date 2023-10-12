@@ -18,7 +18,7 @@ while True:
     print("2. 相减")
     print("3. 相乘")
     print("4. 相除")
-    print("5. 退出")
+    print("5. 结束")
 
     choice = input("请输入选项 (1/2/3/4/5):")
 
