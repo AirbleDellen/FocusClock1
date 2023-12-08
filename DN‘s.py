@@ -23,5 +23,5 @@ while True:
     choice = input("请输入选项 (1/2/3/4/5):")
 
     if choice == '5':
-        print("程序已退出.")
+        print("程序退出.")
         break
