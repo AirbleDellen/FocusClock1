@@ -13,7 +13,7 @@ def divide(x, y):
     return x / y
 
 while True:
-    print("选择运算:")
+    print("选择运算方式:")
     print("1. 相加")
     print("2. 相减")
     print("3. 相乘")
