@@ -9,7 +9,7 @@ def multiply(x, y):
 
 def divide(x, y):
     if y == 0:
-        return "基于法则，除数不可为零"
+        return "除数不可为零"
     return x / y
 
 while True:
