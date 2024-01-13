@@ -14,7 +14,7 @@ def countdown_timer(minutes):
 
 def main():
     try:
-        minutes = int(input("请输入您想要专注的分钟时长: "))
+        minutes = int(input("请输入您想要专注的时长: "))
         countdown_timer(minutes)
     except ValueError:
         print("无效输入，请输入一个整数。")
