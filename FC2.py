@@ -17,7 +17,7 @@ def main():
         minutes = int(input("请输入专注的分钟数 单位：分钟: "))
         countdown_timer(minutes)
     except ValueError:
-        print("无效输入，请输入有效数字")
+        print("无效的输入，请输入有效数字")
 
 if __name__ == "__main__":
     main()
